@@ -5,5 +5,5 @@
 
 - `scripts/` : 일상 운영/환경 준비/점검 자동화를 위한 유틸 스크립트
 - `iac/azure/avd-bicep/` : Azure AVD 환경 구성 데모 (Bicep 기반)
-- `iac/aws/three-tier-terraform/` : AWS 3-Tier 아키텍처 데모 (Terraform 기반)
+- `iac/aws/3-tier-terraform/` : AWS 3-Tier 아키텍처 데모 (Terraform 기반)
 
