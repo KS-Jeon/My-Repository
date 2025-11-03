@@ -1,16 +1,9 @@
 **AVD Bicep Scripts**
-===========================
-<br>
-
-***
 
 ### 구성
 1. **deploy.sh**
 2. **deployVM.bicep**
 3. **params.bicepparam**
-<br>
-
-***
 
 ### 내용
 1. **deploy.sh**<br>
@@ -28,15 +21,7 @@
     * 매개변수 파일
     * 여기서 주요 설정들을 적용할 환경에 맞게 설정합니다.
 
-<br>
-<br>
-
-***
-
 ### 사용방법
 * Bash Shell 을 사용해서 `deploy.sh` 를 실행시켜 배포를 시작합니다.
-<br>
-<br>
-***
 
 `Contributor : KS-Jeon, hittol`
