@@ -4,8 +4,7 @@
 직접 작성한 **운영 스크립트(scripts)** 와, 인프라 구성의 **일관성과 재현성을 확보하기 위한 IaC(iac)** 를 함께 정리한 포트폴리오입니다.
 
 - `scripts/` : 일상 운영/환경 준비/점검 자동화를 위한 유틸 스크립트
-- `iac/azure/avd-bicep/` : Azure AVD 환경 구성 데모 (Bicep 기반)
-- `iac/aws/3-tier-terraform/` : AWS 3-Tier 아키텍처 데모 (Terraform 기반)
+- `iac/` : Terraform/CloudFormation/Bicep 등 IaC 도구를 활용하여 클라우드 인프라 리소스를 선언형으로 구성 및 배포하는 코드 기반 인프라 관리 영역
 
 
 ## Why This Repository Exists
