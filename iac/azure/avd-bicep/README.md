@@ -2,8 +2,8 @@
 
 ### 구성
 1. **deploy.sh**
-2. **deployVM.bicep**
-3. **params.bicepparam**
+2. **main.bicep**
+3. **sample.bicepparam**
 
 ---
 
